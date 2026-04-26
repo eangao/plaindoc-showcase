@@ -10,14 +10,14 @@ Upload an employment contract (PDF or photo) and receive a plain-language
 breakdown with risk flags, missing protections, and action recommendations
 in about 30 seconds.
 
-![Upload UI](docs/screenshots/02-upload.png)
+![Upload UI](docs/screenshots/03-dashboard.png)
 
 ## The output
 
 Every clause is rewritten in plain language with risk flags surfaced
 inline. Users see what they're signing before they sign it.
 
-![Analysis result](docs/screenshots/03-analysis-result.png)
+![Analysis result](docs/screenshots/04-analysis-result.png)
 
 ## Tech Stack
 
@@ -34,7 +34,7 @@ inline. Users see what they're signing before they sign it.
 
 Microtransaction model, processed via PayMongo (GCash, Maya, QR Ph, cards).
 
-![Pricing](docs/screenshots/04-pricing.png)
+![Pricing](docs/screenshots/02-pricing.png)
 
 ## About
 
