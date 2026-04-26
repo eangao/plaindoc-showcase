@@ -5,7 +5,7 @@
 > **Status:** In production · Real users · ₱ revenue
 > **Role:** Solo founder · Designer · Engineer · Operator
 
-PlainDoc is an AI-powered **employment contract analysis tool** for Filipino workers. Upload a contract — get a plain-language breakdown with risk flags, missing protections, and action recommendations in about 30 seconds.
+PlainDoc is an AI-powered legal document analyzer for consumers — production SaaS at plaindoc.app. Upload a contract — get a plain-language breakdown with risk flags, missing protections, and action recommendations in about 30 seconds.
 
 This repository documents the system at a high level. The application code lives in a private repository at [github.com/eangao/plain-doc](https://github.com/eangao/plain-doc) — kept private because PlainDoc is a live commercial SaaS, not an open-source side project. For a public open-source AI document analysis tool I built using the same Claude API + Next.js patterns, see [ai-document-analyzer](https://github.com/eangao/ai-document-analyzer).
 
